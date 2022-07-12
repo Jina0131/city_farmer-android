@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <size android:height="204px"
+                android:width="220px" />
+            <gradient
+                android:startColor="@color/farmer_yellow_01"
+                android:endColor="@color/farmer_yellow_01"
+                android:type="linear" />
+        </shape>
+    </item>
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/img_logo" />
+    </item>
+</layer-list>

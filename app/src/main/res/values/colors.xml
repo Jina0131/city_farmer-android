@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="farmer_yellow_01">#FEFFDA</color>
+    <color name="farmer_yellow_02">#FFEF9B</color>
+    <color name="farmer_yellowGreen_01">#91DC77</color>
+    <color name="farmer_yellowGreen_02">#EAFFBC</color>
+    <color name="farmer_orange_01">#FFEDE1</color>
+    <color name="farmer_orange_02">#FFAE4F</color>
+    <color name="farmer_grey">#D9D9D9</color>
+    <color name="farmer_white">#FFFFFF</color>
+    <color name="farmer_black">#000000</color>
+</resources>

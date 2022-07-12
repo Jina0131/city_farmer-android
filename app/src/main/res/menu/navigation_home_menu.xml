@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/navigation_environment"
+        android:title="오늘의 환경" />
+    <item android:id="@+id/navigation_work"
+        android:title="근무 일지" />
+    <item android:id="@+id/navigation_myPage"
+        android:title="마이페이지" />
+    <item android:id="@+id/navigation_community"
+        android:title="커뮤니티" />
+    <item android:id="@+id/navigation_diary"
+        android:title="그림 일기" />
+</menu>

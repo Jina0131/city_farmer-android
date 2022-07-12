@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text Style -->
+    <style name="TextTitle">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">@color/farmer_black</item>
+    </style>
+    <style name="TextSubtitle1">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/farmer_black</item>
+    </style>
+    <style name="TextSubtitle1.Grey">
+        <item name="android:textColor">@color/farmer_grey</item>
+    </style>
+    <style name="TextBottom">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/farmer_black</item>
+    </style>
+    <style name="TextButton">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/farmer_black</item>
+    </style>
+    <style name="TextSubtitle2">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/farmer_black</item>
+    </style>
+    <style name="TextSmall">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/farmer_black</item>
+    </style>
+    <style name="TextComment">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/farmer_black</item>
+    </style>
+</resources>
