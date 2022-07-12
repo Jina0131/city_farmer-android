@@ -3,4 +3,9 @@
     <string name="app_title">도시농부</string>
     <string name="app_logo">로딩 화면 로고</string>
     <string name="toolbar_home_title">Home</string>
+    <string name="label_environment_icon">오늘의 환경</string>
+    <string name="label_work_icon">근무 일지</string>
+    <string name="label_myPage_icon">마이페이지</string>
+    <string name="label_community_icon">커뮤니티</string>
+    <string name="label_diary_icon">그림 일기</string>
 </resources>

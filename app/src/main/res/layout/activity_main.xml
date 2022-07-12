@@ -21,9 +21,13 @@
         android:id="@+id/navigation_main"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:background="@color/farmer_yellow_02"
+        app:itemIconTint="@color/farmer_yellow_01"
+        app:itemTextColor="@color/farmer_black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:menu="@menu/navigation_home_menu"/>
+        app:menu="@menu/navigation_home_menu" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
