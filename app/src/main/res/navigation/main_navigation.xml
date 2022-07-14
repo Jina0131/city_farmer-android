@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/main_navigation">
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/navigation_home">
 
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.city_farmer.app.HomeFragment"
+        android:label="HomeFragment" />
+    <fragment
+        android:id="@+id/navigation_environment"
+        android:name="com.city_farmer.app.EnvironmentFragment"
+        android:label="EnvironmentFragment" />
+    <fragment
+        android:id="@+id/navigation_work"
+        android:name="com.city_farmer.app.WorkFragment"
+        android:label="WorkFragment" />
+    <fragment
+        android:id="@+id/navigation_community"
+        android:name="com.city_farmer.app.CommunityFragment"
+        android:label="CommunityFragment" />
+    <fragment
+        android:id="@+id/navigation_diary"
+        android:name="com.city_farmer.app.DiaryFragment"
+        android:label="DiaryFragment" />
 </navigation>

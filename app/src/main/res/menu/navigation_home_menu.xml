@@ -6,9 +6,9 @@
     <item android:id="@+id/navigation_work"
         android:icon="@drawable/ic_tabbar"
         android:title="@string/label_work_icon" />
-    <item android:id="@+id/navigation_myPage"
+    <item android:id="@+id/navigation_home"
         android:icon="@drawable/ic_tabbar"
-        android:title="@string/label_myPage_icon" />
+        android:title="@string/label_home_icon" />
     <item android:id="@+id/navigation_community"
         android:icon="@drawable/ic_tabbar"
         android:title="@string/label_community_icon" />

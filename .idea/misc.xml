@@ -4,11 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/asdfg/AndroidStudioProjects/city_farmerandroid/app/src/main/res/drawable/background_splash_screen.xml" value="0.1155" />
+        <entry key="..\:/Users/asdfg/AndroidStudioProjects/city_farmerandroid/app/src/main/res/drawable/ic_bck.xml" value="0.137" />
+        <entry key="..\:/Users/asdfg/AndroidStudioProjects/city_farmerandroid/app/src/main/res/drawable/ic_tabbar.xml" value="0.1445" />
         <entry key="..\:/Users/asdfg/AndroidStudioProjects/city_farmerandroid/app/src/main/res/drawable/ic_tabbar_environment.xml" value="0.136" />
         <entry key="..\:/Users/asdfg/AndroidStudioProjects/city_farmerandroid/app/src/main/res/drawable/ic_tabber_environment.xml" value="0.136" />
         <entry key="..\:/Users/asdfg/AndroidStudioProjects/city_farmerandroid/app/src/main/res/layout/activity_main.xml" value="0.14858728557013118" />
         <entry key="..\:/Users/asdfg/AndroidStudioProjects/city_farmerandroid/app/src/main/res/layout/activity_splash.xml" value="0.16" />
+        <entry key="..\:/Users/asdfg/AndroidStudioProjects/city_farmerandroid/app/src/main/res/layout/fragment_community.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/asdfg/AndroidStudioProjects/city_farmerandroid/app/src/main/res/layout/fragment_diary.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/asdfg/AndroidStudioProjects/city_farmerandroid/app/src/main/res/layout/fragment_environment.xml" value="0.19067028985507245" />
         <entry key="..\:/Users/asdfg/AndroidStudioProjects/city_farmerandroid/app/src/main/res/layout/fragment_home.xml" value="0.14808274470232088" />
+        <entry key="..\:/Users/asdfg/AndroidStudioProjects/city_farmerandroid/app/src/main/res/layout/fragment_work.xml" value="0.19067028985507245" />
         <entry key="..\:/Users/asdfg/AndroidStudioProjects/city_farmerandroid/app/src/main/res/layout/tabbar_environment_ic.xml" value="0.16757246376811594" />
         <entry key="..\:/Users/asdfg/AndroidStudioProjects/city_farmerandroid/app/src/main/res/menu/navigation_home_menu.xml" value="0.3067708333333333" />
         <entry key="..\:/Users/asdfg/AndroidStudioProjects/city_farmerandroid/app/src/main/res/menu/navigation_main_menu.xml" value="0.3067708333333333" />
